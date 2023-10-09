@@ -11,8 +11,11 @@
 
 #### Flutter Founded by Navneet Dalal and Mehul Nariyawala. Then Google bought it.
 #### Flutter was released in May 2017.
+<br><br>
 
+<p><img src = "https://github.com/SJaynesh/Co-Flutter-ch-01/assets/115562979/661768cf-6f50-4cdc-ac81-b0a42b52fcaa.png" width=60% height=50%></p>
 
+<br><br>
 ## Installation of Flutter SDK :
 `Staep 1 : ` First Install git. <br><br>
 `Staep 2 : ` To Installed git and goto for CMD and write git. <br><br>
@@ -24,11 +27,12 @@
 `Staep 7 : ` After Open CMD and write the flutter doctor. <br><br>
 `Staep 8 : ` Last Install Android Studio. <br><br>
 `Staep 9 : ` Install Plugins for Android Studio Like 1. Flutter 2. Dart 3.Material Theme UI 4. Atom Material Icon <br><br>
-
+<br><br>
 ### IDE (Integrated development environment) :
   `Android Studio`, `VS Code` , `IntelliJ IDEA`
 
 
+<br><br>
 ## Android Studio install  AVD (Android Virtual Device) :
 
 > * In order to run the code in Android Studio, it is done in chrom ,Windows and AVD.
