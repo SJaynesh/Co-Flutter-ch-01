@@ -31,6 +31,16 @@
 ### IDE (Integrated development environment) :
   `Android Studio`, `VS Code` , `IntelliJ IDEA`
 
+<br><br>
+
+### Go for Android Studio -> Took -> SDK Manager -> SDK Tool -> 
+> * Android SDK Build-Tools 34
+> * Android SDK Command-line Tools
+> * Android Emulator
+> * Android Emulator hypervisor driver
+> * Android SDK Platform-Tools
+> * Intel x86 Emulator Accelerator (HXAM installer)- Deprecated
+
 
 <br><br>
 ## Android Studio install  AVD (Android Virtual Device) :
