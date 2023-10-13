@@ -40,6 +40,6 @@
 `AVD : `
 > * The computer must have a Hxam install to run the AVD so boot your computer for the install.
 > * To Restart your computer and after click to click F10.
-> * and Goto Security after goto system security and enabled hxam. 
+> * and Goto Security after goto system security and virtulazation technology enabled. 
 
 
