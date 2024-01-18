@@ -1,19 +1,47 @@
 # Introduction of Flutter 
 
-## Introduction and Installation of Flutter SDK :
-
-> * Flutter is a development tool for creating cross-platform applications.
-> * Flutter was created by Google to help developers create frontends that run on almost any operating system, including Android, iOS, Mac, Linux, Windows desktop.
-> * Flutter is Open Source.
-> * Flutter is Not Programming Language. It's a SDK(Software Development Kit). It is use for Dart Language.
-> * Flutter SDK is Freamwork. The Flutter framework is a UI toolkit that helps developers create high-performance applications for iOS, Android, Linux, Mac, Windows.
-
-
-#### Flutter Founded by Navneet Dalal and Mehul Nariyawala. Then Google bought it.
-#### Flutter was released in May 2017.
 <br><br>
 
-<p><img src = "https://github.com/SJaynesh/Co-Flutter-ch-01/assets/115562979/661768cf-6f50-4cdc-ac81-b0a42b52fcaa.png" width=60% height=50%></p>
+## Introduction and Installation of Flutter SDK :
+
+<br>
+
+### What is Flutter ?
+
+<br>
+
+> * `Flutter is an open-source UI software development kit created by GOOGLE.`
+> * Flutter is a free, open-source software development kit (SDK) for cross-platform mobile application development. It's a mobile app development platform created
+     by Google that allows developers to create web, desktop, and cross-platform apps that run on Android and iOS devices.
+
+<br>
+
+### Using Flutter we can develop  :
+
+<br>
+
+> * Android
+> * IOS
+> * Linux
+> * MacOs
+> * Windows
+> * Fuchsia
+
+<br>
+
+> * `Flutter is a Single Codebase framework. Because Here we can run it in multiple platform by writing a single code.`
+
+<br><br>
+
+## History of Flutter :
+
+<br>
+
+>  * First time When the Flutter was introduced, then it was named SKY.
+>  * Flutter was first introduced at the Dart Developer Summit in 2015.
+>  * Official Launched Date in Flutter - December 4,2018
+>  * Flutter First Version Flutter 1.0
+>  * Second Version launched Flutter 1.12 - December 11,2019
 
 <br><br>
 ## Installation of Flutter SDK :
@@ -27,7 +55,9 @@
 `Staep 7 : ` After Open CMD and write the flutter doctor. <br><br>
 `Staep 8 : ` Last Install Android Studio. <br><br>
 `Staep 9 : ` Install Plugins for Android Studio Like 1. Flutter 2. Dart 3.Material Theme UI 4. Atom Material Icon <br><br>
+
 <br><br>
+
 ### IDE (Integrated development environment) :
   `Android Studio`, `VS Code` , `IntelliJ IDEA`
 
